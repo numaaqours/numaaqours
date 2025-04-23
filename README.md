@@ -8,7 +8,7 @@ While I don’t really write code myself, I occasionally dive into building cust
 just for fun, especially for:
 
 - 📱 Pixel 6a (`bluejay`)  
-- 📱 arrows We2 (`itc`)
+- 📱 arrows We2 (`itc`) ※just trying...
 
 ## 🎨 What I do
 
