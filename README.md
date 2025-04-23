@@ -7,16 +7,15 @@ mainly responsible for making things look nice (like our custom boot animations 
 While I don’t really write code myself, I occasionally dive into building custom Android ROMs  
 just for fun, especially for:
 
-- 📱 Pixel 6a (`bluejay`)  
-- 📱 arrows We2 (`itc`) ※just trying...
+- 📱 Pixel 6a (`bluejay`)
 
 ## 🎨 What I do
 
-- 👾 Designer @ WitAqua  
+- 👾 Designer @WitAqua  
   (Yes, I made the boot animation we use 👀)
 
 - 🔧 Casual ROM builder  
-  I like building LineageOS-based ROMs now and then.
+  Sometimes build ROMs.
 
 - 🍎 Sometimes playing around with iOS jailbreak stuff.
 
